@@ -1,6 +1,10 @@
 # 15 Puzzle Game - Java Swing
 
-This application is a implementation of the popular **15 Puzzle** game. This version of the game was developed with Java Swing. See a video overview of the game here: https://jumpshare.com/v/IJElwsVOsdKAHFapzB0n
+This application is a implementation of the popular **15 Puzzle** game. This version of the game was developed with Java Swing. 
+
+Play the game(*Use **admin** as user, and **pwd** as password* to play) : https://games.ehsanulhaque.com/fifteenpuzzlestart
+
+See a video overview of the game: https://jumpshare.com/v/IJElwsVOsdKAHFapzB0n
 
 ## Gameplay instruction
 
